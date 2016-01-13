@@ -8,6 +8,7 @@ public class Demo {
 		int c = calc.add(a, b);
 		System.out.println("result = "+c);
 		System.out.println("added new line: from Aimal's PC");
+//lol yea
 	}
 
 }
